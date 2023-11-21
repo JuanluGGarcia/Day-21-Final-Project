@@ -222,6 +222,11 @@ main {
     text-decoration: none;
     font-family: var(--ff-secondary);
 }
+
+.section-intro__button:focus,
+.section-intro__button:hover {
+    opacity: 0.65;
+}
 /* **************************************** */
 
 /* SECTION-TWO */
